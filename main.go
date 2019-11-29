@@ -1,2 +1,3 @@
-fmt package main
+package main
+
 
